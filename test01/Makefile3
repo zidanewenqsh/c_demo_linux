@@ -1,0 +1,12 @@
+CC=gcc
+CFLAGS=-Wall -g
+OBJS=etest.o func.o
+TARGET=etest
+$(TARGET):$(OBJS)
+	$(CC) $(FLAGS) $(OBJS) -o $@
+func.o:func.c
+	$(CC) $(FLAGS) $^ -O $@
+etest.o:etest.c
+	$(CC) $(FLAGS) $^ -o $@
+clean:
+	rm -f *.o etest	

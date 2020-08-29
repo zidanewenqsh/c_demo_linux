@@ -1,0 +1,9 @@
+CC=gcc
+etest:etest.o func.o
+	$(CC) $^ -o $@
+func.o:func.c
+	$(CC) -c $^ -o $@
+etest.o:etest.c
+	$(CC) -c $^ -o $@
+clean:
+	rm -f *.o etest	

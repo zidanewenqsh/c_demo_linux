@@ -1,0 +1,2 @@
+btest.o:btest.c
+	gcc -c btest.c -o btest.o
