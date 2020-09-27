@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wen/Projects/c_demo_linux/process/vfork.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+unistd.h
+-
+sys/wait.h
+-
+

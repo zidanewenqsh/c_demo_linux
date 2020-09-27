@@ -1,0 +1,3 @@
+/home/wen/PHZNLinuxProjects/c_demo_linux/string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wen/PHZNLinuxProjects/c_demo_linux/string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wen/PHZNLinuxProjects/c_demo_linux/string/cmake-build-debug/CMakeFiles/a.dir

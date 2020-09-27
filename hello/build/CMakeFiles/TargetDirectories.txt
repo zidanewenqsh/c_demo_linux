@@ -1,0 +1,3 @@
+/home/wen/Desktop/Projects/c_demo_linux/hello/build/CMakeFiles/rebuild_cache.dir
+/home/wen/Desktop/Projects/c_demo_linux/hello/build/CMakeFiles/edit_cache.dir
+/home/wen/Desktop/Projects/c_demo_linux/hello/build/CMakeFiles/hello.dir

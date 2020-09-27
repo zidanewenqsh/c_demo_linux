@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/a.dir/vfork.c.o  -o a 
