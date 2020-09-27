@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hello txt
+=======
+a.out
+a.txt
+iotest1.c
+main.c
+>>>>>>> 297974c684eebad1c68e50f7280743728d3c1b45
