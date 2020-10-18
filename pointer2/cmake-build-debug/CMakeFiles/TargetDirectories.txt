@@ -1,0 +1,3 @@
+/home/wen/Projects/c_demo_linux/pointer2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wen/Projects/c_demo_linux/pointer2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wen/Projects/c_demo_linux/pointer2/cmake-build-debug/CMakeFiles/p.dir

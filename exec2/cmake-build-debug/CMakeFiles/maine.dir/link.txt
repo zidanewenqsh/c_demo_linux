@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/maine.dir/exec1.c.o  -o maine 
